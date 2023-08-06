@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State Design Pattern ATM-Demo", "State Design Pattern ATM-Demo\State Design Pattern ATM-Demo.csproj", "{BED1FBB1-DC57-4518-8D37-C0CFD84A6534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State Design Pattern MP3-Demo", "State Design Pattern MP3-Demo\State Design Pattern MP3-Demo.csproj", "{22EBB3FC-635E-4D70-953D-AABDC57A831D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED1FBB1-DC57-4518-8D37-C0CFD84A6534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED1FBB1-DC57-4518-8D37-C0CFD84A6534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED1FBB1-DC57-4518-8D37-C0CFD84A6534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED1FBB1-DC57-4518-8D37-C0CFD84A6534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22EBB3FC-635E-4D70-953D-AABDC57A831D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EBB3FC-635E-4D70-953D-AABDC57A831D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EBB3FC-635E-4D70-953D-AABDC57A831D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EBB3FC-635E-4D70-953D-AABDC57A831D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E19DFC7-2E1E-4B88-8E54-D0AF35226A11}
+	EndGlobalSection
+EndGlobal
